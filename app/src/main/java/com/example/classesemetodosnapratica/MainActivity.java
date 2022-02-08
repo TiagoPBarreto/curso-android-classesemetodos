@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
             //interfaces
         //Obama obama = new Obama();
         //obama.direitosDeveres();
-        
+
         //ContaBancaria conta = new ContaBancaria ();
 
        // Pessoa pessoa = new Pessoa();
