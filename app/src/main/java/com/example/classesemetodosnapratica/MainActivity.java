@@ -12,11 +12,11 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-        ContaBancaria conta = new ContaBancaria ();
-
-
-
+            //interfaces
+        //Obama obama = new Obama();
+        //obama.direitosDeveres();
+        
+        //ContaBancaria conta = new ContaBancaria ();
 
        // Pessoa pessoa = new Pessoa();
         //pessoa.exibirDados(" Sarah Leydyane " ,  27);
